@@ -7,3 +7,7 @@ I am a Software Engineer since 2014.
 ✅ I work effectively under the agile Scrum methodology, providing innovative solutions and adding value to the team. I have advanced proficiency in English which complements my availability to take on global roles and travel as needed.
 
 🌟 I'm always open to connecting, sharing knowledge, and exploring new opportunities. Let's get in touch! 📲 ✉️
+
+* [My Android 🤖 projects](https://github.com/jreategui07?tab=repositories&q=kotlin)
+* [My iOS 🍎 projects](https://github.com/jreategui07?tab=repositories&q=swift)
+  
