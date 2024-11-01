@@ -10,4 +10,4 @@ I am a Software Engineer since 2014.
 
 * [My Android 🤖 projects](https://github.com/jreategui07?tab=repositories&q=kotlin)
 * [My iOS 🍎 projects](https://github.com/jreategui07?tab=repositories&q=swift)
-  
+* [My Angular 🚀 projects](https://github.com/jreategui07?tab=repositories&q=Angular)
